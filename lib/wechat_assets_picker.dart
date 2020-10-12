@@ -10,3 +10,4 @@ export 'src/provider/asset_picker_provider.dart';
 export 'src/provider/asset_picker_viewer_provider.dart';
 export 'src/widget/asset_picker.dart';
 export 'src/widget/asset_picker_viewer.dart';
+export 'src/widget/custom_asset_picker_viewer.dart';

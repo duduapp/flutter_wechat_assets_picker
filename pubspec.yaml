@@ -11,7 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  extended_image: ^1.0.0
-  photo_manager: ^0.5.7
+  extended_image: ^1.1.2
+  photo_manager:
+    path: ../flutter_photo_manager/
   provider: ^4.3.1
-  video_player: ^0.10.11+2
+  cached_video_player: ^1.0.3
+ # video_player: ^0.10.11+2
