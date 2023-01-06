@@ -13,7 +13,9 @@ dependencies:
 
   extended_image: ^1.1.2
   photo_manager:
-    path: ../flutter_photo_manager/
+    git:
+      url: https://github.com/duduapp/flutter_photo_manager.git
+      ref: master
   provider: ^4.3.1
   cached_video_player: ^1.0.3
  # video_player: ^0.10.11+2
